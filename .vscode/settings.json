@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
-        "chktex"
+        "biber",
+        "biblatex",
+        "chktex",
+        "latexmk",
+        "xelatex"
     ]
 }
