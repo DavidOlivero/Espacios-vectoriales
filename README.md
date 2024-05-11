@@ -2,7 +2,7 @@
     <img src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg" alt="Logo de latex">
 </p>
 
-<h2 align="center">Proyecto de LaTeX para la solución del ejercicio 4 de fundamentos de gestión integral</h2>
+<h2 align="center">Proyecto de LaTeX para la solución del ejercicio 4 de álgebra lineal. Espacios Vectoriales</h2>
 
 ### Requisitos previos para compilar el proyecto
 - Tener instalado Latexmk
